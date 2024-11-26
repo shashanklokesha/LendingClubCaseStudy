@@ -52,4 +52,4 @@ Thanks,
 
 ## Contact
 Created by Shashank Lokesha & Battini Lokesh.
-Please feel free to contact me!
+Please feel free to contact us!
