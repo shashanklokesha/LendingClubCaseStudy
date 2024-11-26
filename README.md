@@ -51,5 +51,5 @@ Thanks,
     Professor, IIIT Bangalore
 
 ## Contact
-Created by Shashank Lokesha, Cloud FinOps Analyst.
+Created by Shashank Lokesha & Battini Lokesh.
 Please feel free to contact me!
